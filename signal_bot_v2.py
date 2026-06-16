@@ -10,8 +10,8 @@
 #  ⚙️  CONFIG — FILL IN YOUR CREDENTIALS HERE
 # ─────────────────────────────────────────────
 
-TELEGRAM_BOT_TOKEN = "PASTE_YOUR_TELEGRAM_BOT_TOKEN_HERE"
-TELEGRAM_CHAT_ID   = "PASTE_YOUR_TELEGRAM_CHAT_ID_HERE"   # DM @userinfobot on Telegram to get this
+TELEGRAM_BOT_TOKEN = "8915227430:AAGZerO0Str2bHaCLO8UTOlOe8ss-CcDzfU"
+TELEGRAM_CHAT_ID   = "7018249842"   # DM @userinfobot on Telegram to get this
 
 # ─────────────────────────────────────────────
 #  📊  SIGNAL SETTINGS (adjust freely)
